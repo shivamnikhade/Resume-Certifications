@@ -1,0 +1,71 @@
+
+Shivam Nikhade
+Salesforce Admin/Developer
+
+Pune, Maharashtra 411058
+702 054 6910
+shivamnikhade98@gmail.com
+WWW: https://trailblazer.me/id/snikhade
+
+Professional Summary
+
+Currently working as a Salesforce Developer at Cognizant having around 1 years of experience in Salesforce (SFDC). Experienced Software Engineer with demonstrated history of working in the information technology and service industry. Skilled in Salesforce, Apex, LWC, Triggers, Visualforce, Lightning components, Java and Front End Web Technologies. Strong Engineering professional with a Bachelor of Engineering focused in Computer Engineering.
+
+Work History
+
+February 2021 to Current
+Cognizant Technology Solutions India Pune, Maharashtra
+Salesforce Developer    
+Title - DRMI
+Tools & Technologies - Salesforce
+Description - Demand Response Market Integration (DRMI) is an Energy saving program where they are giving option to their customer to enroll in Energy saving program to reduce their electricity bill. Client is one of the largest distributors of natural gas and electric utilities in the United States. It is developed on Salesforce lightning platform along with Visualforce page and also integration with external system using Heroku.
+
+Resolving production issues.
+Involved in the Requirement gathering, Analysis and Estimation for the Project.
+Involved in Data Load Activities through Data Loader.
+Created and modified Lightning/Visualforce component.
+Writing test classes to insure proper validation of data.
+Used to attend daily status call with onshore to gather the requirements and changes and further distribution of these requirements among team.
+Actively participated in deployment activities upon various environments and handling post deployment activities and defects.
+Preparing Functional Specification documents to help the Development team.
+Enhancement in existing functionality of different applications.
+
+Education
+
+RMD Sinhgad School of Engineering Pune Pune
+B.E CSE 
+GPA: 7.71  
+Adarsh Vidhyalaya Amgaon Amgaon
+12th  
+GPA: 73.08  
+Manoherbhai Patel Military School Gondia Gondia
+10th  
+GPA: 91.2
+
+Skills
+
+Salesforce Platform  
+
+Apex  
+
+Lightning Web Component  
+
+Triggers  
+
+Visualforce page & component  
+
+Lightning Component  
+
+HTML CSS JavaScript  
+
+Certifications
+
+Salesforce Certified Administrator.
+
+Personal Information
+
+Date of Birth : 4th Nov 1997 Gender : Male Nationality: Indian
+Marital Status : Single
+Languages known :English, Hindi, Marathi
+
+Permanent Address : Behind Krishna Welding works Amgaon Gondia Maharashtra 441902, District-Gondia
